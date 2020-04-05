@@ -29,3 +29,9 @@
 #endforeach()
 
 #include(module list)
+
+
+
+
+#内置变量
+#message"(STATUS ${CMAKE_MODULE_PATH}")
